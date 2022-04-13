@@ -1,5 +1,4 @@
 #### Defi-R-SCERE_Team4_DUO2021
-#valide giovanni en ligne
 # Level 2: The aim is to write a script that allow the clustering of gene expression in N clusters 
 # with the choice of different algorithm methods (K-means or Hierarchical Clustering) 
 # and the choice of the distance calculation methods (euclidean or correlation)
